@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:navigation_tutor_app/kullanimi.dart';
+
 import 'package:navigation_tutor_app/screen1.dart';
 
 void main() {
