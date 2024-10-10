@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:navigation_tutor_app/kullanimi.dart';
 import 'package:navigation_tutor_app/screen1.dart';
 
 void main() {
@@ -33,7 +34,7 @@ class MyApp extends StatelessWidget {
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
           useMaterial3: true,
         ),
-        home: const Screen1());
+        home: ogrenci());
   }
 }
 
